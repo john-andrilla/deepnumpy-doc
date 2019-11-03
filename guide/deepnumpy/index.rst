@@ -1,17 +1,19 @@
 .. _deepnumpy_guide:
 
-DeepNumPy
+#What is DeepNumPy?
 =============
 
-The DeepNumpy front-end in MXNet provides a NumPy-like interface with extensions
-for deep learning. It contains two modules, ``mxnet.np`` that is similar to
-NumPy, and ``mxnet.npx`` for extended operators that are useful for deep
-learning. To get started,
+DeepNumPy in MXNet provides a NumPy-like interface with extensions
+for deep learning. It contains two modules, ``mxnet.np``, which is similar to
+NumPy, and ``mxnet.npx``, which offers extended operators that are useful for deep
+learning.
 
-- check the :ref:`deepnumpy_cheat_sheet` for a quick overview
-- if you are familiar with NumPy, check :ref:`deepnumpy_vs_numpy` that explans
-  the the differences
-- if you used `mxnet.nd` before, check the tutorial [TODO]
+##If this is your first time using DeepNumPy
+We recommend that you review the following resources to get started. 
+- For a quick overview, see :ref:`deepnumpy_cheat_sheet`.
+- If you are familiar with NumPy, check :ref:`deepnumpy_vs_numpy`, which explains
+  the the differences between DeepNumPy and NumPy.
+- If you have used `mxnet.nd` before, check the tutorial [TODO]
 
 
 .. toctree::
